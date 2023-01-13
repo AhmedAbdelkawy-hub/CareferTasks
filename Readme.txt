@@ -1,3 +1,4 @@
+#  This rep contains two tasks Manual And Test automation .
 # Rest-Assured-Framwork using Java, Maven , TestNG And POM
 
 # Tech stach
