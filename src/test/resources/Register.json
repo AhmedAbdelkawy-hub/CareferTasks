@@ -1,0 +1,10 @@
+{
+  "password":"123456",
+  "password_confirmation":"123456",
+  "favorite_language":"en",
+  "responsible_person":"Test_Automation",
+  "is_accept_terms_and_conditions":true,
+  "name":"Test_Automation Name",
+  "mobile":966556877999,
+  "email": "test@gmail.com"
+}
